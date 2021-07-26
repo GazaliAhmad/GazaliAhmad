@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+I'm a software engineer.
+
+🌱 I’m currently learning and coding C#
+
 <!--
 **GazaliAhmad/GazaliAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🌱 I’m currently learning and coding C#
+
 
 Here are some ideas to get you started:
 
