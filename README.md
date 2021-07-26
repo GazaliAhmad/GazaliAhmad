@@ -4,11 +4,12 @@ I'm a software engineer.
 
 🌱 _I’m currently learning and coding C#._
 
-    Yes doing it simultaneously. Fortunately I've learnt Java and Object Orientated Programming. The learning curve was not that difficult as compared to Java. Still it has its own syntax. The IDE (Visual Studio 2019) helps a lot. It's like I'm in a text-based adventure game. It gives me hints and possible outcomes.  
+Yes doing it simultaneously. Fortunately I've learnt Java and Object Orientated Programming. The learning curve was not that difficult as compared to Java. Still it has its own syntax. The IDE (Visual Studio 2019) helps a lot. It's like I'm in a text-based adventure game. It gives me hints and possible outcomes.
+
+I will improve on this profile page later.
 
 <!--
 **GazaliAhmad/GazaliAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
