@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a software engineer.
-
-🌱 _Something new is coming_
+I'm a MuleSoft Developer.
 
 <!--
+🌱 _Something new is coming_
+
+
 **GazaliAhmad/GazaliAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
