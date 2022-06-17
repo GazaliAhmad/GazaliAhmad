@@ -4,7 +4,8 @@ I'm a game-changing Full-Stack Developer.
 
 [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
-Tech Stack
+## Tech Stack
+
 ⚡Java
 ⚡C#
 ⚡MuleSoft Certified Developer
