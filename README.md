@@ -1,13 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm a MuleSoft Developer.
+I'm a game-changing Full-Stack Developer.
+
+[My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
+
+Tech Stack
+⚡Java
+⚡C#
+⚡MuleSoft Certified Developer
+⚡Restful API
+⚡MySQL
+⚡PostgreSQL
+⚡MongoDB
+⚡JavaScript
+⚡React
+⚡CSS
+⚡HTML
+⚡GIT
+
+📫 How to reach me: ...
+
+- [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
+- gazali.ahmad@gmail.com
+- [Whatsapp](https://wa.me/6588085871)
 
 <!--
 🌱 _Something new is coming_
 
-
 **GazaliAhmad/GazaliAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
