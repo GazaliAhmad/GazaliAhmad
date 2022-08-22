@@ -14,10 +14,8 @@ I'm a game-changing Full-Stack Developer.
 ⚡PostgreSQL
 ⚡MongoDB
 ⚡JavaScript
+⚡Angular
 ⚡React
-⚡CSS
-⚡HTML
-⚡GIT
 
 📫 How to reach me: ...
 
