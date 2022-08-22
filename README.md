@@ -19,7 +19,7 @@ I'm a game-changing Full-Stack Developer.
 ⚡npm
 ⚡Angular
 ⚡React
-⚡Angular
+⚡Astro
 
 ## Databases
 
