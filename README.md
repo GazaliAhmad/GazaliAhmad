@@ -20,7 +20,7 @@ I'm a game-changing Full-Stack Developer.
 ⚡React
 ⚡Angular
 
-## Database
+## Databases
 
 ⚡MySQL
 ⚡PostgreSQL
