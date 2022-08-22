@@ -4,18 +4,31 @@ I'm a game-changing Full-Stack Developer.
 
 [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
-## Tech Stack
+## Languages
 
 ⚡Java
 ⚡C#
-⚡MuleSoft Certified Developer
-⚡Restful API
+⚡JavaScript / TypeScript
+⚡CSS / SCSS
+⚡HTML
+
+## Frameworks / Libraries
+
+⚡Spring Boot
+⚡Boot Strap
+⚡Angular
+⚡React
+⚡Angular
+
+## Database
+
 ⚡MySQL
 ⚡PostgreSQL
 ⚡MongoDB
-⚡JavaScript
-⚡Angular
-⚡React
+
+## Certification
+
+⚡MuleSoft Certified Developer
 
 📫 How to reach me: ...
 
