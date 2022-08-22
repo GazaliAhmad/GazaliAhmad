@@ -16,6 +16,7 @@ I'm a game-changing Full-Stack Developer.
 
 ⚡Spring Boot
 ⚡Boot Strap
+⚡npm
 ⚡Angular
 ⚡React
 ⚡Angular
