@@ -2,6 +2,7 @@
 
 I'm a game-changing Full-Stack Developer.
 
+[Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
 [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
 ## Languages
@@ -14,11 +15,12 @@ I'm a game-changing Full-Stack Developer.
 
 ## Frameworks / Libraries
 
-⚡Spring Boot
-⚡Boot Strap
-⚡npm
 ⚡Angular
 ⚡React
+⚡Spring Boot
+⚡Boot Strap
+⚡Angular Material
+⚡npm
 ⚡Astro
 
 ## Databases
@@ -34,7 +36,7 @@ I'm a game-changing Full-Stack Developer.
 📫 How to reach me: ...
 
 - [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
-- gazali.ahmad@gmail.com
+- [Email](mailto:gazali@journeymanjourneys.com)
 - [Whatsapp](https://wa.me/6588085871)
 
 <!--
