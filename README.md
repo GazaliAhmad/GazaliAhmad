@@ -2,8 +2,9 @@
 
 I'm a game-changing Full-Stack Developer.
 
-[Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
-[My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
+- [Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
+
+- [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
 ## Languages
 
