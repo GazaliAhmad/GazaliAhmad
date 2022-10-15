@@ -59,7 +59,6 @@ I'm a game-changing Full-Stack Developer.
 
 - [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
 - [Email](mailto:gazali@journeymanjourneys.com)
-- [Whatsapp](https://wa.me/6588085871)
 - [Telegram](https://t.me/GazaliOne)
 
 <!--
@@ -77,4 +76,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [Whatsapp](https://wa.me/6588085871)
 -->
