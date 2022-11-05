@@ -4,55 +4,84 @@ I'm a game-changing Full-Stack Developer.
 
 - [In Singapore's Straits Times news](https://www.straitstimes.com/singapore/parenting-education/from-taxi-driver-to-software-engineer-in-9-months)
 
-- [Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
-
 - [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
 ---
 
 ## Current Tech Skills
 
-### The absolute basics
+### The Absolute Basics
 
-⚡HTML
-⚡CSS
+<table>
+<tr>
+    <td>⚡HTML</td>
+    <td>⚡CSS</td>
+</tr>
+</table>
 
 ### Languages
 
-⚡JavaScript / TypeScript
-⚡Java
-⚡C#
+<table>
+<tr>
+    <td>⚡JavaScript</td>
+    <td>⚡Java</td>
+    <td>⚡Python</td>
+    <td>⚡C#</td>
+</tr>
+</table>
 
 ### Extensions
 
-⚡SASS
-⚡TypeScript
-⚡JSX
+<table>
+<tr>
+    <td>⚡SASS</td>
+    <td>⚡TypeScript</td>
+    <td>⚡JSX</td>
+</tr>
+</table>
 
 ### Web Application Framework
 
-⚡WordPress
+<table>
+<tr>
+<td>⚡WordPress</td>
+</tr>
+</table>
 
 ### Front-End Frameworks / Libraries
 
-⚡Boot Strap
-⚡Angular
-⚡React
+<table>
+<tr>
+    <td>⚡Boot Strap</td>
+    <td>⚡Angular</td>
+    <td>⚡React</td>
+</tr>
+</table>
 
 ### Back-End Frameworks / Libraries
 
-⚡Spring Boot
-⚡Maven
-⚡Gradle
-⚡.NET
-⚡MuleSoft
+<table>
+<tr>
+    <td>⚡Spring Boot</td>
+    <td>⚡Maven</td>
+    <td>⚡Gradle</td>
+</tr>
+<tr>
+    <td>⚡Django</td>
+    <td>⚡.NET</td>
+    <td>⚡MuleSoft</td>
+</tr>
+</table>
 
 ### Databases
 
-⚡MySQL
-⚡PostgreSQL
-⚡MongoDB
-
+<table>
+<tr>
+    <td>⚡MySQL</td>
+    <td>⚡PostgreSQL</td>
+    <td>⚡MongoDB</td>
+</tr>
+</table>
 ---
 
 📫 How to reach me: ...
@@ -78,4 +107,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - [Whatsapp](https://wa.me/6588085871)
+
+- [Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
 -->
