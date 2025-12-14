@@ -1,14 +1,52 @@
 # Hi there, I'm Gazali Ahmad 👋
-### 📊 Data Analyst | Systems Support | Tech Transitioner
+### 📊 Data Analyst | Systems & Operational Background
 
-I am a Data Analyst transitioning from a background in systems support (Synapxe), education operations, and full-stack development. I specialize in bridging the gap between technical data engineering and operational business needs.
+I am a Data Analyst with a unique background in **Systems Support (Synapxe)** and **Operations**. Unlike typical analysts who only see rows and columns, I understand the physical systems, log files, and operational workflows that generate the data.
 
-My experience spans healthcare systems, behavioral observation, and technical engineering, giving me the ability to understand data from both operational and human perspectives.
+I specialize in **Operational Analytics**: cleaning messy real-world data, auditing system logic, and using economic context to validate machine learning models.
 
 ---
 
-## 🚀 My Journey
-I pride myself on adaptability and resilience. My career transition has been featured in the media, highlighting my grit and commitment to continuous learning.
+## 🏆 Featured Projects (The Portfolio)
+
+### 1. [Titanic Economic & Survival Analysis](https://github.com/GazaliAhmad/titanic-survival-analysis)
+**Focus:** Business Acumen & Predictive Modeling
+> *Moved beyond standard prediction by performing an inflation-adjusted economic analysis. Discovered that the "Fare" variable wasn't just a number, but a proxy for extreme wealth stratification (equivalent to $50k+ USD today).*
+- **Tech:** Python, Pandas, Seaborn, Logistic Regression.
+
+### 2. [COVID-19 Time-Series & Trend Analysis](https://github.com/GazaliAhmad/covid19-data-analysis)
+**Focus:** Operational Data Cleaning & Visualization
+> *A deep dive into real-world healthcare data. Focused on cleaning inconsistencies in date formats and visualizing infection trends to identify peak transmission periods.*
+- **Tech:** Python, Matplotlib, Time-Series Analysis.
+
+### 3. [Dr. Greyson Rouhe (AI Persona)](https://github.com/GazaliAhmad/dr-greyson-rouhe)
+**Focus:** AI Safety, Prompt Engineering & Behavioral Design
+> *Engineered a "Behavioral Diagnostic" LLM persona with strict guardrails against prompt injection. Demonstrates ability to control GenAI output for specific use cases.*
+- **Tech:** OpenAI, Prompt Engineering, Markdown Logic.
+
+---
+
+## 🎯 Strategic Self-Audit
+I believe in treating my own career like a data project. I recently conducted a "Gap Analysis" to benchmark my Systems Support background against Data Analyst requirements.
+
+* [**View the full Analysis & Fitment Radar**](https://github.com/GazaliAhmad/data-analyst-role-fitment)
+* **Key Insight:** My 10+ years in Operations give me a massive advantage in **Problem Framing** and **Stakeholder Management** compared to fresh graduates, while I have aggressively upskilled in Python to close the technical gap.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+| Domain | Tools & Competencies |
+| :--- | :--- |
+| **Data Analytics** | 🐍 **Python** (Pandas, NumPy, Scikit-Learn), **EDA**, Hypothesis Testing |
+| **Data Engineering** | 🗄️ **SQL** (Complex Joins, Data Integrity Checks), Excel (Advanced) |
+| **Visualization** | 📊 **Power BI** (DAX), **Matplotlib/Seaborn** (Python) |
+| **Systems & AI** | 🤖 **GenAI** (Prompt Engineering), **Azure Fundamentals**, System Log Analysis |
+
+---
+
+## 🚀 The Backstory: Resilience & Grit
+I pride myself on adaptability. My journey from the operational frontline (Taxi Driving) to Systems Engineering and now Data Analytics has been featured in the national media as a case study in resilience.
 
 - 📰 **The Straits Times:** [From Taxi Driver to Software Engineer](https://www.straitstimes.com/singapore/parenting-education/from-taxi-driver-to-software-engineer-in-9-months)
 - 📰 **Berita Harian:** [Resilience in Career Transition](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
@@ -16,38 +54,8 @@ I pride myself on adaptability and resilience. My career transition has been fea
 
 ---
 
-## 🛠️ Data Analytics Tech Stack
-*Core competencies aligned with my current focus.*
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Data Analysis** | 🐍 Python (Pandas, NumPy, Matplotlib), Excel (Advanced Automation) |
-| **Databases** | 🗄️ SQL (MS SQL Server, PostgreSQL), Data Cleaning, Query Optimization |
-| **Visualization** | 📊 Power BI (DAX, Modeling), Dashboard Design |
-| **AI & Cloud** | ☁️ Azure AI Fundamentals, Predictive Analysis |
-
----
-
-## 💻 Technical Development Background
-*Previous experience in Full-Stack Development which supports my ability to understand backend systems and APIs.*
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | C# (.NET), JavaScript, Java |
-| **Web Frameworks** | React, Node.js, ASP.NET Core |
-| **Integration** | MuleSoft (Certified Developer L1), API Concepts |
-
----
-
-## 🔭 What I'm Currently Working On
-- **Healthcare Data Analysis:** Leveraging SQL to investigate data integrity issues in clinical systems.
-- **Behavioral Analytics:** structuring longitudinal student data to track engagement and behavioral patterns.
-- **Python Portfolio:** Building projects focused on EDA (Exploratory Data Analysis) and predictive modeling.
-
----
-
 ## 📫 Connect with Me
+I am currently open to roles in **Data Analytics**, **Healthcare Analytics**, or **Systems/Business Analysis**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
 - 📧 [Email](mailto:gazali.ahmad@outlook.com)
-- 🐙 [GitHub](https://github.com/gazaliahmad)
