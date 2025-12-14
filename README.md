@@ -9,17 +9,22 @@ I specialize in **Operational Analytics**: cleaning messy real-world data, audit
 
 ## 🏆 Featured Projects (The Portfolio)
 
-### 1. [Titanic Economic & Survival Analysis](https://github.com/GazaliAhmad/titanic-survival-analysis)
+### 1. [Diabetes ML Faceoff (Math vs. Logic)](https://github.com/GazaliAhmad/diabetes-ml-faceoff)
+**Focus:** Model Comparison, Optimization & Deployment
+> *An end-to-end Machine Learning pipeline comparing Polynomial Logistic Regression ("Math") against Optimized Random Forest ("Logic"). The Random Forest won with **~93% accuracy**, demonstrating superior pattern recognition for critical diagnoses. The final model is ready for deployment simulation.*
+- **Tech:** Python, Pandas, **Scikit-Learn** (Random Forest, LogReg), EDA, Feature Engineering.
+
+### 2. [Titanic Economic & Survival Analysis](https://github.com/GazaliAhmad/titanic-survival-analysis)
 **Focus:** Business Acumen & Predictive Modeling
 > *Moved beyond standard prediction by performing an inflation-adjusted economic analysis. Discovered that the "Fare" variable wasn't just a number, but a proxy for extreme wealth stratification (equivalent to $50k+ USD today).*
 - **Tech:** Python, Pandas, Seaborn, Logistic Regression.
 
-### 2. [COVID-19 Time-Series & Trend Analysis](https://github.com/GazaliAhmad/covid19-data-analysis)
+### 3. [COVID-19 Time-Series & Trend Analysis](https://github.com/GazaliAhmad/covid19-data-analysis)
 **Focus:** Operational Data Cleaning & Visualization
 > *A deep dive into real-world healthcare data. Focused on cleaning inconsistencies in date formats and visualizing infection trends to identify peak transmission periods.*
 - **Tech:** Python, Matplotlib, Time-Series Analysis.
 
-### 3. [Dr. Greyson Rouhe (AI Persona)](https://github.com/GazaliAhmad/dr-greyson-rouhe)
+### 4. [Dr. Greyson Rouhe (AI Persona)](https://github.com/GazaliAhmad/dr-greyson-rouhe)
 **Focus:** AI Safety, Prompt Engineering & Behavioral Design
 > *Engineered a "Behavioral Diagnostic" LLM persona with strict guardrails against prompt injection. Demonstrates ability to control GenAI output for specific use cases.*
 - **Tech:** OpenAI, Prompt Engineering, Markdown Logic.
@@ -38,7 +43,7 @@ I believe in treating my own career like a data project. I recently conducted a 
 
 | Domain | Tools & Competencies |
 | :--- | :--- |
-| **Data Analytics** | 🐍 **Python** (Pandas, NumPy, Scikit-Learn), **EDA**, Hypothesis Testing |
+| **Data Analytics** | 🐍 **Python** (Pandas, NumPy, **Scikit-Learn**), **EDA**, Hypothesis Testing |
 | **Data Engineering** | 🗄️ **SQL** (Complex Joins, Data Integrity Checks), Excel (Advanced) |
 | **Visualization** | 📊 **Power BI** (DAX), **Matplotlib/Seaborn** (Python) |
 | **Systems & AI** | 🤖 **GenAI** (Prompt Engineering), **Azure Fundamentals**, System Log Analysis |
