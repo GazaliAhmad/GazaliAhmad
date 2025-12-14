@@ -1,112 +1,53 @@
-# Hi there 👋
+# Hi there, I'm Gazali Ahmad 👋
+### 📊 Data Analyst | Systems Support | Tech Transitioner
 
-I'm a game-changing Full-Stack Developer.
+I am a Data Analyst transitioning from a background in systems support (Synapxe), education operations, and full-stack development. I specialize in bridging the gap between technical data engineering and operational business needs.
 
-- [In Singapore's Straits Times news](https://www.straitstimes.com/singapore/parenting-education/from-taxi-driver-to-software-engineer-in-9-months)
-
-- [My game changing story.](https://singapore.generation.org/stories/gazali-full-stack-developer/)
+My experience spans healthcare systems, behavioral observation, and technical engineering, giving me the ability to understand data from both operational and human perspectives.
 
 ---
 
-## Current Tech Skills
+## 🚀 My Journey
+I pride myself on adaptability and resilience. My career transition has been featured in the media, highlighting my grit and commitment to continuous learning.
 
-### The Absolute Basics
+- 📰 **The Straits Times:** [From Taxi Driver to Software Engineer](https://www.straitstimes.com/singapore/parenting-education/from-taxi-driver-to-software-engineer-in-9-months)
+- 📰 **Berita Harian:** [Resilience in Career Transition](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
+- 📹 **Generation SG:** [My Career Story](https://singapore.generation.org/stories/gazali-full-stack-developer/)
 
-<table>
-<tr>
-    <td>⚡HTML</td>
-    <td>⚡CSS</td>
-</tr>
-</table>
-
-### Languages
-
-<table>
-<tr>
-    <td>⚡JavaScript</td>
-    <td>⚡Java</td>
-    <td>⚡Python</td>
-    <td>⚡C#</td>
-</tr>
-</table>
-
-### Extensions
-
-<table>
-<tr>
-    <td>⚡SASS</td>
-    <td>⚡TypeScript</td>
-    <td>⚡JSX</td>
-</tr>
-</table>
-
-### Web Application Framework
-
-<table>
-<tr>
-<td>⚡WordPress</td>
-</tr>
-</table>
-
-### Front-End Frameworks / Libraries
-
-<table>
-<tr>
-    <td>⚡Boot Strap</td>
-    <td>⚡Angular</td>
-    <td>⚡React</td>
-</tr>
-</table>
-
-### Back-End Frameworks / Libraries
-
-<table>
-<tr>
-    <td>⚡Spring Boot</td>
-    <td>⚡Maven</td>
-    <td>⚡Gradle</td>
-</tr>
-<tr>
-    <td>⚡Django</td>
-    <td>⚡.NET</td>
-    <td>⚡MuleSoft</td>
-</tr>
-</table>
-
-### Databases
-
-<table>
-<tr>
-    <td>⚡MySQL</td>
-    <td>⚡PostgreSQL</td>
-    <td>⚡MongoDB</td>
-</tr>
-</table>
 ---
 
-📫 How to reach me: ...
+## 🛠️ Data Analytics Tech Stack
+*Core competencies aligned with my current focus.*
 
-- [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
-- [Email](mailto:gazali@journeymanjourneys.com)
-- [Telegram](https://t.me/GazaliOne)
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data Analysis** | 🐍 Python (Pandas, NumPy, Matplotlib), Excel (Advanced Automation) |
+| **Databases** | 🗄️ SQL (MS SQL Server, PostgreSQL), Data Cleaning, Query Optimization |
+| **Visualization** | 📊 Power BI (DAX, Modeling), Dashboard Design |
+| **AI & Cloud** | ☁️ Azure AI Fundamentals, Predictive Analysis |
 
-<!--
-🌱 _Something new is coming_
+---
 
-**GazaliAhmad/GazaliAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Development Background
+*Previous experience in Full-Stack Development which supports my ability to understand backend systems and APIs.*
 
-Here are some ideas to get you started:
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C# (.NET), JavaScript, Java |
+| **Web Frameworks** | React, Node.js, ASP.NET Core |
+| **Integration** | MuleSoft (Certified Developer L1), API Concepts |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-- [Whatsapp](https://wa.me/6588085871)
+## 🔭 What I'm Currently Working On
+- **Healthcare Data Analysis:** Leveraging SQL to investigate data integrity issues in clinical systems.
+- **Behavioral Analytics:** structuring longitudinal student data to track engagement and behavioral patterns.
+- **Python Portfolio:** Building projects focused on EDA (Exploratory Data Analysis) and predictive modeling.
 
-- [Article about me in Singapore's Malay Paper Berita Harian](https://www.bharian.com.my/berita/nasional/2020/05/525628/ibu-bapa-dan-anak-berjaya-berjaya-berjaya)
--->
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gazaliahmad/)
+- 📧 [Email](mailto:gazali.ahmad@outlook.com)
+- 🐙 [GitHub](https://github.com/gazaliahmad)
