@@ -4,9 +4,9 @@
 
 I work at the intersection of data analysis, systems thinking, and operational reality.
 
-My focus is not on maximising metrics in isolation, but on **making defensible decisions when data is imperfect, constrained, or noisy**. I am particularly interested in how models behave under real-world conditions, and when a “better” model can actually be more misleading.
+My focus is not on maximizing metrics in isolation, but on **making defensible decisions when data is imperfect, constrained, or noisy**. I am particularly interested in how models behave under real-world conditions, and when a “better” model can actually be more misleading.
 
-I bring a systems and operations background into analytics work, which shapes how I frame problems, interpret outputs, and decide what *not* to optimise.
+I bring a systems and operations background into analytics work, which shapes how I frame problems, interpret outputs, and decide what *not* to optimize.
 
 ---
 
@@ -19,7 +19,7 @@ It is a record of:
 - How I reason under constraint
 - How I choose clarity and stability over superficial performance
 
-Some repositories are technical. Others focus on analytical judgement and constraint.  
+Some repositories are technical. Others focus on analytical judgement under constraint.  
 The unifying theme is **judgement over novelty**.
 
 ---
@@ -29,14 +29,14 @@ The unifying theme is **judgement over novelty**.
 ### Model Selection Under Constraint  
 📌 https://github.com/GazaliAhmad/diabetes-ml-faceoff
 
-A case study on choosing a model when accuracy is not the primary goal.
+A case study on model selection in contexts where interpretability, stability, and decision risk outweigh marginal accuracy gains.
 
 This project documents:
-- Why certain statistically attractive models were rejected
 - How interpretability, stability, and failure modes shaped the final decision
+- Why certain statistically attractive models were rejected
 - How small, ambiguous datasets change what “good” modelling means
 
-This is the best entry point if you want to understand how I think.
+This repository provides the clearest illustration of my analytical decision-making under constraint.
 
 ---
 
@@ -48,7 +48,7 @@ The following repositories provide supporting context and execution capability:
   An exploration of how variables gain meaning only when interpreted within economic and social context.
 
 - **COVID-19 Trend Analysis**  
-  A practical exercise in cleaning and analysing messy, real-world public health data.
+  A practical exercise in cleaning and analyzing messy, real-world public health data.
 
 - **AI Persona Design (Dr Greyson Rouhe)**  
   An experiment in behavioural constraints, guardrails, and controlled LLM interaction for system safety.
