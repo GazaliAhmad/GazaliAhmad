@@ -19,7 +19,7 @@ It is a record of:
 - How I reason under constraint
 - How I choose clarity and stability over superficial performance
 
-Some repositories are technical. Others are reflective.  
+Some repositories are technical. Others focus on analytical judgement and constraint.  
 The unifying theme is **judgement over novelty**.
 
 ---
@@ -51,7 +51,7 @@ The following repositories provide supporting context and execution capability:
   A practical exercise in cleaning and analysing messy, real-world public health data.
 
 - **AI Persona Design (Dr Greyson Rouhe)**  
-  An experiment in behavioural constraint, guardrails, and controlled LLM interaction.
+  An experiment in behavioural constraints, guardrails, and controlled LLM interaction for system safety.
 
 These projects are not presented as highlights, but as **evidence of breadth and execution**.
 
@@ -69,8 +69,8 @@ That trajectory is not incidental. It is why I treat data as something *produced
 ## Current Focus
 
 I am open to roles involving:
-- Data Analytics
-- Systems / Business Analysis
+- Systems Analysis
+- Applied Data Analytics within operational or regulated environments
 - Context-heavy analytical work where judgement matters
 
 Particularly in environments where data quality, constraints, and operational trade-offs are real.
