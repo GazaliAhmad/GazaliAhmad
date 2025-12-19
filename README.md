@@ -19,8 +19,9 @@ It is a record of:
 - How I reason under constraint
 - How I choose clarity and stability over superficial performance
 
-Some repositories are technical. Others focus on analytical judgement under constraint.  
-The unifying theme is **judgement over novelty**.
+Some repositories are technical. Others focus on analytical judgement under constraint.
+
+The underlying theme is **process integrity over superficial metrics.**
 
 ---
 
