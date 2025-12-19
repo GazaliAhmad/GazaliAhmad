@@ -1,84 +1,81 @@
 # Hi, I’m Gazali Ahmad
 
-## What I Do
+I am a Systems Analyst working at the intersection of data analysis, systems thinking, and operational reality, particularly in contexts where decisions must hold up under constraint, scrutiny, and imperfect data.
 
-I work at the intersection of data analysis, systems thinking, and operational reality.
-
-My focus is not on maximizing metrics in isolation, but on **making defensible decisions when data is imperfect, constrained, or noisy**. I am particularly interested in how models behave under real-world conditions, and when a “better” model can actually be more misleading.
-
-I bring a systems and operations background into analytics work, which shapes how I frame problems, interpret outputs, and decide what *not* to optimize.
+My focus is not on maximizing metrics in isolation, but on reducing decision risk when data is noisy, limited, or produced by complex real-world systems. I am especially interested in situations where a statistically “better” model can create false confidence and lead to fragile or misleading outcomes.
 
 ---
 
 ## How to Read This GitHub
 
-This GitHub is not a gallery of experiments.
+This GitHub is not a gallery of experiments or optimization exercises.
 
-It is a record of:
-- How I approach analytical trade-offs
-- How I reason under constraint
-- How I choose clarity and stability over superficial performance
+It is a record of how I:
 
-Some repositories are technical. Others focus on analytical judgement under constraint.
+- Reason under operational and data constraints  
+- Evaluate analytical trade-offs and failure modes  
+- Prioritize interpretability, stability, and decision integrity over superficial performance  
 
-The underlying theme is **process integrity over superficial metrics.**
+Some repositories are technical. Others focus on analytical judgment.  
+The unifying theme is **process integrity over headline metrics**.
 
 ---
 
-## Primary Artefact
+## Primary Case: Model Selection Under Constraint
 
 ### Model Selection Under Constraint  
 📌 https://github.com/GazaliAhmad/diabetes-ml-faceoff
 
-A case study on model selection in contexts where interpretability, stability, and decision risk outweigh marginal accuracy gains.
+This case study examines model selection in a healthcare-adjacent context where interpretability, stability, and decision risk matter more than marginal accuracy gains.
 
-This project documents:
-- How interpretability, stability, and failure modes shaped the final decision
-- Why certain statistically attractive models were rejected
-- How small, ambiguous datasets change what “good” modelling means
+The work documents:
 
-This repository provides the clearest illustration of my analytical decision-making under constraint.
+- How failure modes and interpretability shaped the final model choice  
+- Why statistically attractive models were rejected due to risk and fragility  
+- How small, ambiguous datasets change what “good” modeling actually means in practice  
+
+The emphasis is not on model performance alone, but on whether the model’s behavior would remain defensible under real-world scrutiny.
+
+This repository best reflects how I make analytical decisions when outcomes matter.
 
 ---
 
-## Supporting Work (Contextual)
+## Supporting Evidence (Capability Context)
 
-The following repositories provide supporting context and execution capability:
+The following repositories provide supporting context for my analytical and systems capability:
 
-- **Titanic Survival & Economic Analysis**  
-  An exploration of how variables gain meaning only when interpreted within economic and social context.
+### Titanic Survival & Economic Analysis  
+Demonstrates how variables gain meaning only when interpreted within economic and social context, not in isolation.
 
-- **COVID-19 Trend Analysis**  
-  A practical exercise in cleaning and analyzing messy, real-world public health data.
+### COVID-19 Trend Analysis  
+Focuses on cleaning, validating, and interpreting messy public health data under real-world reporting constraints.
 
-- **AI Persona Design (Dr Greyson Rouhe)**  
-  An experiment in behavioural constraints, guardrails, and controlled LLM interaction for system safety.
+### AI Persona Design (Dr. Greyson Rouhe)  
+Explores behavioral constraints, guardrails, and controlled interaction in LLM systems, with an emphasis on safety and system behavior.
 
-These projects are not presented as highlights, but as **evidence of breadth and execution**.
+These projects are not presented as highlights, but as **evidence of breadth, execution, and judgment across domains**.
 
 ---
 
 ## Background (Brief)
 
-My background spans operations, systems support, and analytics.  
-This includes time in frontline roles, enterprise systems environments, and structured analytical work.
+My background spans frontline operations, enterprise systems support, system integration, and applied analytics.
 
-That trajectory is not incidental. It is why I treat data as something *produced by systems*, not something that exists in abstraction.
+This trajectory is intentional. It is why I treat data as something generated by systems and human behavior, not as an abstract artifact detached from operational reality.
 
 ---
 
 ## Current Focus
 
 I am open to roles involving:
-- Systems Analysis
-- Applied Data Analytics within operational or regulated environments
-- Context-heavy analytical work where judgement matters
 
-Particularly in environments where data quality, constraints, and operational trade-offs are real.
+- Systems Analysis  
+- Applied analytics in operational or regulated environments  
+- Context-heavy analytical work where judgment, constraint, and decision integrity matter  
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/gazaliahmad/
-- Email: gazali.ahmad@outlook.com
+- **LinkedIn:** https://www.linkedin.com/in/gazaliahmad/  
+- **Email:** gazali.ahmad@outlook.com
