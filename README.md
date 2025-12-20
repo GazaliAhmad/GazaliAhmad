@@ -1,6 +1,6 @@
 # Hi, I’m Gazali Ahmad
 
-I am a Systems Analyst working at the intersection of data analysis, systems thinking, and operational reality, particularly in contexts where decisions must hold up under constraint, scrutiny, and imperfect data.
+I am a Systems Analyst working at the intersection of data analysis, systems thinking, and operational reality, particularly in contexts where decisions must hold up under constraint, scrutiny, and imperfect data (e.g. healthcare, public systems, and regulated environments).
 
 My focus is not on maximizing metrics in isolation, but on reducing decision risk when data is noisy, limited, or produced by complex real-world systems. I am especially interested in situations where a statistically “better” model can create false confidence and lead to fragile or misleading outcomes.
 
@@ -45,13 +45,17 @@ This repository best reflects how I make analytical decisions when outcomes matt
 The following repositories provide supporting context for my analytical and systems capability:
 
 ### Titanic Survival & Economic Analysis  
-Demonstrates how variables gain meaning only when interpreted within economic and social context, not in isolation.
+Demonstrates how variables gain meaning only when interpreted within economic and social context, rather than treated as isolated predictors.
 
-### COVID-19 Trend Analysis  
-Focuses on cleaning, validating, and interpreting messy public health data under real-world reporting constraints.
+### COVID-19 Reporting Artefacts & False Signals  
+Examines global COVID-19 datasets to identify reporting distortions, boundary misalignment, and false causal assumptions commonly produced by public health data.
+
+The analysis highlights how delayed disclosure, administrative aggregation, and proxy variables (e.g. hospital beds, smoking prevalence) can generate misleading conclusions if treated as direct epidemiological signals.
+
+The emphasis is on preventing confident but incorrect conclusions, rather than maximizing descriptive completeness.
 
 ### AI Persona Design (Dr. Greyson Rouhe)  
-Explores behavioral constraints, guardrails, and controlled interaction in LLM systems, with an emphasis on safety and system behavior.
+Explores behavioral constraints, guardrails, and controlled interaction in LLM systems, with an emphasis on safety, failure modes, and predictable system behavior.
 
 These projects are not presented as highlights, but as **evidence of breadth, execution, and judgment across domains**.
 
