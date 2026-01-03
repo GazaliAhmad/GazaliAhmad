@@ -10,6 +10,11 @@ My focus is not on maximizing metrics in isolation, but on reducing decision ris
 
 This GitHub is not a gallery of experiments or optimization exercises.
 
+Some work is published under corporate ownership and is intentionally not mirrored here.
+
+Repositories developed under Right Business Pte. Ltd. are maintained separately:
+https://github.com/RightBusiness
+
 It is a record of how I:
 
 - Reason under operational and data constraints  
