@@ -1,8 +1,10 @@
 # Hi, I’m Gazali Ahmad
 
-I am a Systems Analyst working at the intersection of data analysis, systems thinking, and operational reality, particularly in contexts where decisions must hold up under constraint, scrutiny, and imperfect data (e.g. healthcare, public systems, and regulated environments).
+I work in systems analysis across data, operations, and human-centered environments where decisions must hold up under constraint, ambiguity, and imperfect information.
 
-My focus is not on maximizing metrics in isolation, but on reducing decision risk when data is noisy, limited, or produced by complex real-world systems. I am especially interested in situations where a statistically “better” model can create false confidence and lead to fragile or misleading outcomes.
+My focus is on understanding the upstream conditions that shape downstream outcomes. In practice, this means working with data that is incomplete, delayed, or distorted by the systems that produce it, including healthcare, education, and regulated settings.
+
+Rather than optimizing metrics or models in isolation, I aim to reduce decision risk by identifying where assumptions, proxies, or statistically “better” models create confidence that is not supported by operational reality. I am especially interested in failure modes where analytical rigor masks fragility instead of revealing it.
 
 ---
 
