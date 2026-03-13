@@ -17,8 +17,7 @@ This GitHub documents how I evaluate analytical trade-offs, system behavior, and
 
 Some work is published under corporate ownership and is intentionally not mirrored here.
 
-Repositories developed under Right Business Pte. Ltd. are maintained separately:
-https://github.com/RightBusiness
+Repositories developed under Right Business Pte. Ltd. are maintained separately: [RightBusiness Github](https://gazali.one/gitb)
 
 It is a record of how I:
 
