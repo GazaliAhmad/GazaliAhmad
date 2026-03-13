@@ -6,8 +6,10 @@ My focus is on understanding the upstream conditions that shape downstream outco
 
 Rather than optimizing metrics or models in isolation, I aim to reduce decision risk by identifying where assumptions, proxies, or statistically “better” models create confidence that is not supported by operational reality. I am especially interested in failure modes where analytical rigor masks fragility instead of revealing it.
 
-Primary writing and work overview:
+Primary writing ans work overview
+
 https://gazali.one
+
 ---
 
 ## How to Read This GitHub
