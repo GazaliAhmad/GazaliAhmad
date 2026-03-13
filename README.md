@@ -96,5 +96,4 @@ I am open to roles involving:
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/gazaliahmad/  
-- **Email:** gazali.ahmad@outlook.com
+- **Contact:** [gazali.one/contact](https://gazali.one/contact)
