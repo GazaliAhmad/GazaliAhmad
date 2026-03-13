@@ -6,11 +6,13 @@ My focus is on understanding the upstream conditions that shape downstream outco
 
 Rather than optimizing metrics or models in isolation, I aim to reduce decision risk by identifying where assumptions, proxies, or statistically “better” models create confidence that is not supported by operational reality. I am especially interested in failure modes where analytical rigor masks fragility instead of revealing it.
 
+Primary writing and work overview:
+https://gazali.one
 ---
 
 ## How to Read This GitHub
 
-This GitHub is not a gallery of experiments or optimization exercises.
+This GitHub documents how I evaluate analytical trade-offs, system behavior, and decision risk under real-world constraints.
 
 Some work is published under corporate ownership and is intentionally not mirrored here.
 
@@ -25,6 +27,12 @@ It is a record of how I:
 
 Some repositories are technical. Others focus on analytical judgment.  
 The unifying theme is **process integrity over headline metrics**.
+
+This repository collection represents the **systems layer** of my work, focusing on analytical models, decision framing, and controlled AI behavior.
+
+Primary analytical case study:
+
+Model Selection Under Constraint
 
 ---
 
