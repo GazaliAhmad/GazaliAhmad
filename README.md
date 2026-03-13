@@ -6,8 +6,7 @@ My focus is on understanding the upstream conditions that shape downstream outco
 
 Rather than optimizing metrics or models in isolation, I aim to reduce decision risk by identifying where assumptions, proxies, or statistically “better” models create confidence that is not supported by operational reality. I am especially interested in failure modes where analytical rigor masks fragility instead of revealing it.
 
-Primary writing and work overview: 
-https://gazali.one
+Primary writing and work overview: [gazali.one](https://gazali.one)
 
 ---
 
@@ -17,7 +16,7 @@ This GitHub documents how I evaluate analytical trade-offs, system behavior, and
 
 Some work is published under corporate ownership and is intentionally not mirrored here.
 
-Repositories developed under Right Business Pte. Ltd. are maintained separately: [RightBusiness Github](https://gazali.one/gitb)
+Repositories developed under Right Business Pte. Ltd. are maintained separately: [RightBusiness GitHub](https://gazali.one/gitb)
 
 It is a record of how I:
 
