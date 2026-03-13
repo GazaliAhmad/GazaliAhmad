@@ -95,4 +95,4 @@ I am open to roles involving:
 
 ## Contact
 
-[Contact form](https://gazali.one/contact)
+You can contact me using this form: [gazali.one/contact](https://gazali.one/contact)
