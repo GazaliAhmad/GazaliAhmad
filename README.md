@@ -24,8 +24,6 @@ Relevant when:
 - Your timestamps arrive late, batched, or misaligned
 - You’ve written custom date logic and hit edge cases
 
-If none of these apply, you likely don’t need this package.
-
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
  
