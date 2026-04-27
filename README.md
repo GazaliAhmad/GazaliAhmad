@@ -12,7 +12,7 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 
 ## Published Work
 
-### day-boundary
+### **day-boundary**
 [![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/day-boundary)
 
 Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
