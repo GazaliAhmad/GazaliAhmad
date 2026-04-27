@@ -24,6 +24,8 @@ Relevant when:
 - Your timestamps arrive late, batched, or misaligned
 - You’ve written custom date logic and hit edge cases
 
+---
+
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
  
