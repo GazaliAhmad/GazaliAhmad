@@ -72,7 +72,7 @@ This repository best reflects how I make analytical decisions when outcomes matt
 The following repositories provide supporting context for my analytical and systems capability:
 
 ### Titanic Survival & Economic Analysis  
-Demonstrates how variables gain meaning only when interpreted within economic and social context, rather than treated as isolated predictors.
+Demonstrates how variables only gain meaning within economic and social context, not as isolated predictors.
 
 ### COVID-19 Reporting Artefacts & False Signals  
 Examines global COVID-19 datasets to identify reporting distortions, boundary misalignment, and false causal assumptions commonly produced by public health data.
