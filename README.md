@@ -15,7 +15,7 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 ### day-boundary
 [![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/day-boundary)
 
-A utility for handling non-standard day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align cleanly.
+Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
 
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
