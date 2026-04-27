@@ -22,7 +22,7 @@ Use this if:
 - Your “day” does not start at midnight (e.g. 4AM cutoffs)
 - You group data by day across timezones
 - Your timestamps arrive late, batched, or misaligned
-- You’ve written custom date logic and run into edge cases
+- You’ve written custom date logic and hit edge cases
 
 If none of these apply, you likely don’t need this package.
 
