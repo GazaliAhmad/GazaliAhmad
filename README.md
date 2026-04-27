@@ -12,6 +12,17 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 
 ---
 
+## Published Work
+`day-boundary`
+
+A utility for handling non-standard day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align cleanly.
+
+npm: https://www.npmjs.com/package/day-boundary
+repo: https://github.com/GazaliAhmad/day-boundary
+
+---
+
+
 ## How to Read This GitHub
 
 This GitHub documents how I evaluate analytical trade-offs, system behavior, and decision risk under real-world constraints.
