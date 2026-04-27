@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/day-boundary)
+
 # Hi, I’m Gazali Ahmad
 
 I work in systems analysis across data, operations, and human-centered environments where decisions must hold up under constraint, ambiguity, and imperfect information.
