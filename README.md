@@ -13,9 +13,12 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 ## Published Work
 
 ### **day-boundary**
+
 [![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/day-boundary)
 
-Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
+A utility for handling day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
+
+---
 
 ## When You Need This
 
@@ -24,12 +27,18 @@ Use this if:
 - Your “day” does not start at midnight (e.g. 4AM cutoffs)
 - You group data by day across timezones
 - Your timestamps arrive late, batched, or misaligned
-- You’ve ever written custom date logic and had edge cases break
+- You’ve written custom date logic and run into edge cases
 
-If none of these apply, you don’t need this package.
+If none of these apply, you likely don’t need this package.
 
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
+
+---
+
+## Installation
+
+`npm install day-boundary`
 
 ---
 
