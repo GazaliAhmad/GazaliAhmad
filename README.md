@@ -17,7 +17,7 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 
 Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
 
-Use this if:
+Relevant when:
 
 - Your “day” does not start at midnight (e.g. 4AM cutoffs)
 - You group data by day across timezones
