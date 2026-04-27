@@ -17,6 +17,15 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 
 Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
 
+Use this if:
+
+- Your “day” does not start at midnight (e.g. 4AM cutoffs)
+- You group data by day across timezones
+- Your timestamps arrive late, batched, or misaligned
+- You’ve written custom date logic and run into edge cases
+
+If none of these apply, you likely don’t need this package.
+
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
  
