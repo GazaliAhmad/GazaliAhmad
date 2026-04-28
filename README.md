@@ -28,6 +28,23 @@ Relevant when:
 
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
+
+### time-window-classifier (twc)
+
+Reference CLI demonstrating how `day-boundary` is applied to real event data.
+
+Shows:
+
+- JSONL-based event processing
+- classification into operational windows with non-midnight boundaries
+- behavior across DST transitions (e.g. 25-hour windows)
+
+Use this when:
+
+- you want to see how `day-boundary` fits into a data pipeline
+- you need a concrete end-to-end example, not just library usage
+
+- repo: https://github.com/GazaliAhmad/time-window-classifier
  
 ---
 
