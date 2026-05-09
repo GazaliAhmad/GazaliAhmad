@@ -9,7 +9,6 @@ Rather than optimizing metrics or models in isolation, I aim to reduce decision 
 Primary writing and work overview: [gazali.one](https://gazali.one)
 
 ---
-
 ## Published Works
 
 ### **day-boundary**  
@@ -24,11 +23,26 @@ Relevant when:
 - Your timestamps arrive late, batched, or misaligned
 - You’ve written custom date logic and hit edge cases
 
----
-
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
 
+---
+
+### **causal-order**
+[![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/causal-order)
+
+Models causal dependency across events when timestamps alone cannot determine execution sequence.
+
+Relevant when:
+- Events arrive late, duplicated, or out of order
+- Multiple systems produce conflicting timelines
+- Operational truth depends on dependency resolution, not clock order
+- You need deterministic replay across asynchronous workflows
+
+- npm: https://www.npmjs.com/package/causal-order
+- repo: https://github.com/GazaliAhmad/causal-order
+
+---
 ### time-window-classifier (twc)
 
 Reference CLI demonstrating how `day-boundary` is applied to real event data.
@@ -47,37 +61,12 @@ Use this when:
 - repo: https://github.com/GazaliAhmad/time-window-classifier
  
 ---
-### **causal-order**
-[![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/causal-order)
-
-- npm: https://www.npmjs.com/package/causal-order
-- repo: https://github.com/GazaliAhmad/causal-order
-
-Models causal dependency across events when timestamps alone are insufficient to determine execution sequence.
-
-Built for environments where:
-- Events arrive late, duplicated, or out of sequence
-- Multiple systems generate conflicting timelines
-- Operational truth depends on dependency resolution, not clock order
-- Pipelines require deterministic replay under partial failure
-
-Core ideas:
-- Distinguishes temporal order from causal order
-- Preserves dependency chains under asynchronous execution
-- Supports replay-safe reconstruction of event sequences
-- Makes hidden ordering assumptions explicit and testable
-
-Use this where:
-- Timestamp sorting produces misleading analytical conclusions
-- Distributed systems require stable reconstruction logic
-- Event-driven pipelines need dependency-aware processing
-- Operational investigations depend on reproducible sequencing
 
 This package reflects a broader analytical position used throughout this GitHub:
 
-`Observed order is not always execution truth.
+**Observed order is not always execution truth.**
 
-In constrained systems, causality often matters more than chronology.`
+**In constrained systems, causality often matters more than chronology.**
 
 ---
 
