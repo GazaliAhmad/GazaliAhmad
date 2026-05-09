@@ -10,7 +10,7 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 
 ---
 
-## Published Work
+## Published Works
 
 ### **day-boundary**  
 [![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/day-boundary)
@@ -46,6 +46,50 @@ Use this when:
 
 - repo: https://github.com/GazaliAhmad/time-window-classifier
  
+---
+### **causal-order**
+[![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/causal-order)
+
+npm: https://www.npmjs.com/package/causal-orderrepo: https://github.com/GazaliAhmad/causal-order
+
+Models causal dependency across events when timestamps alone are insufficient to determine execution sequence.
+
+Built for environments where:
+
+Events arrive late, duplicated, or out of sequence
+
+Multiple systems generate conflicting timelines
+
+Operational truth depends on dependency resolution, not clock order
+
+Pipelines require deterministic replay under partial failure
+
+Core ideas:
+
+Distinguishes temporal order from causal order
+
+Preserves dependency chains under asynchronous execution
+
+Supports replay-safe reconstruction of event sequences
+
+Makes hidden ordering assumptions explicit and testable
+
+Use this where:
+
+Timestamp sorting produces misleading analytical conclusions
+
+Distributed systems require stable reconstruction logic
+
+Event-driven pipelines need dependency-aware processing
+
+Operational investigations depend on reproducible sequencing
+
+This package reflects a broader analytical position used throughout this GitHub:
+
+Observed order is not always execution truth.
+
+In constrained systems, causality often matters more than chronology.
+
 ---
 
 ## How to Read This GitHub
