@@ -29,7 +29,7 @@ Relevant when:
 ---
 
 ### **causal-order**
-[![npm version](https://img.shields.io/npm/v/day-boundary.svg)](https://www.npmjs.com/package/causal-order)
+[![npm version](https://img.shields.io/npm/v/causal-order.svg)](https://www.npmjs.com/package/causal-order)
 
 Models causal dependency across events when timestamps alone cannot determine execution sequence.
 
