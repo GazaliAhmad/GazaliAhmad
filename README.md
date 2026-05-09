@@ -22,7 +22,7 @@ Relevant when:
 - You group data by day across timezones
 - Your timestamps arrive late, batched, or misaligned
 - You’ve written custom date logic and hit edge cases
-
+---
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
 
@@ -38,7 +38,7 @@ Relevant when:
 - Multiple systems produce conflicting timelines
 - Operational truth depends on dependency resolution, not clock order
 - You need deterministic replay across asynchronous workflows
-
+---
 - npm: https://www.npmjs.com/package/causal-order
 - repo: https://github.com/GazaliAhmad/causal-order
 
@@ -57,7 +57,7 @@ Use this when:
 
 - you want to see how `day-boundary` fits into a data pipeline
 - you need a concrete end-to-end example, not just library usage
-
+---
 - repo: https://github.com/GazaliAhmad/time-window-classifier
  
 ---
