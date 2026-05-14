@@ -31,13 +31,13 @@ Relevant when:
 ### **causal-order**
 [![npm version](https://img.shields.io/npm/v/causal-order.svg)](https://www.npmjs.com/package/causal-order)
 
-Models causal dependency across events when timestamps alone cannot determine execution sequence.
+Models causal dependencies between events without requiring a global clock.
 
 Relevant when:
+- Timestamps alone cannot reliably determine execution order
 - Events arrive late, duplicated, or out of order
 - Multiple systems produce conflicting timelines
-- Operational truth depends on dependency resolution, not clock order
-- You need deterministic replay across asynchronous workflows
+- Deterministic replay is required across asynchronous workflows
 ---
 - npm: https://www.npmjs.com/package/causal-order
 - repo: https://github.com/GazaliAhmad/causal-order
