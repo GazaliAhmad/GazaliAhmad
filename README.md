@@ -17,7 +17,6 @@ Primary writing and work overview: [gazali.one](https://gazali.one)
 Handles day boundaries in systems where timestamps, reporting cutoffs, and operational time do not align.
 
 Relevant when:
-
 - Your “day” does not start at midnight (e.g. 4AM cutoffs)
 - You group data by day across timezones
 - Your timestamps arrive late, batched, or misaligned
@@ -28,7 +27,10 @@ Relevant when:
 
 ---
 
-### **causal-order**
+### **The causal-order Stack**
+A modular, zero-dependency distributed systems suite engineered to guarantee logical time consistency, idempotency, and network predictability under real-world runtime degradation.
+
+#### **1. causal-order (Core Engine)**
 [![npm version](https://img.shields.io/npm/v/causal-order.svg)](https://www.npmjs.com/package/causal-order)
 
 Models causal dependencies between events without requiring a global clock.
@@ -42,19 +44,56 @@ Relevant when:
 - npm: https://www.npmjs.com/package/causal-order
 - repo: https://github.com/GazaliAhmad/causal-order
 
+#### **2. @causal-order/dedupe**
+[![npm version](https://img.shields.io/npm/v/@causal-order/dedupe.svg)](https://www.npmjs.com/package/@causal-order/dedupe)
+
+A deployable duplicate-filtering runtime that sits in front of the ordering pipeline.
+
+Relevant when:
+- High-frequency distributed streams require bounded replay handling
+- Idempotency must be strictly guaranteed during system state recovery
+- Upstream reconnects create high-intent message duplication noise
+---
+- npm: https://www.npmjs.com/package/@causal-order/dedupe
+- repo: https://github.com/GazaliAhmad/causal-order-dedupe
+
+#### **3. @causal-order/transport**
+[![npm version](https://img.shields.io/npm/v/@causal-order/transport.svg)](https://www.npmjs.com/package/@causal-order/transport)
+
+A high-performance WebSocket + JSON network transport layer built to normalize raw ingress traffic.
+
+Relevant when:
+- Raw node network streams must map perfectly into fixed event contracts
+- Speculative framework bloat and connection handling noise must be minimized
+- The system demands structural isolation between connection logic and state logic
+---
+- npm: https://www.npmjs.com/package/@causal-order/transport
+- repo: https://github.com/GazaliAhmad/causal-order-transport
+
+#### **4. @causal-order/testing**
+[![npm version](https://img.shields.io/npm/v/@causal-order/testing.svg)](https://www.npmjs.com/package/@causal-order/testing)
+
+A systems-testing simulation harness and clinical fault-injection runtime built for the stack.
+
+Relevant when:
+- The execution pipeline must be verified via intensive wall-clock endurance tests
+- Network degradation, latency jitter, and partition stress must be artificially applied
+- Real-world deployment topology needs validation under sustained operational pressure
+---
+- npm: https://www.npmjs.com/package/@causal-order/testing
+- repo: https://github.com/GazaliAhmad/causal-order-test
+
 ---
 ### time-window-classifier (twc)
 
 Reference CLI demonstrating how `day-boundary` is applied to real event data.
 
 Shows:
-
 - JSONL-based event processing
 - classification into operational windows with non-midnight boundaries
 - behavior across DST transitions (e.g. 25-hour windows)
 
 Use this when:
-
 - you want to see how `day-boundary` fits into a data pipeline
 - you need a concrete end-to-end example, not just library usage
 ---
