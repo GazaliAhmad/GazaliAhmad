@@ -43,6 +43,7 @@ Relevant when:
 ---
 - npm: https://www.npmjs.com/package/causal-order
 - repo: https://github.com/GazaliAhmad/causal-order
+---
 
 #### **2. @causal-order/dedupe**
 [![npm version](https://img.shields.io/npm/v/@causal-order/dedupe.svg)](https://www.npmjs.com/package/@causal-order/dedupe)
