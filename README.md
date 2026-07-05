@@ -24,7 +24,6 @@ Relevant when:
 ---
 - npm: https://www.npmjs.com/package/day-boundary  
 - repo: https://github.com/GazaliAhmad/day-boundary
-
 ---
 
 ### **The causal-order Stack**
@@ -57,6 +56,7 @@ Relevant when:
 ---
 - npm: https://www.npmjs.com/package/@causal-order/dedupe
 - repo: https://github.com/GazaliAhmad/causal-order-dedupe
+---
 
 #### **3. @causal-order/transport**
 [![npm version](https://img.shields.io/npm/v/@causal-order/transport.svg)](https://www.npmjs.com/package/@causal-order/transport)
@@ -83,8 +83,8 @@ Relevant when:
 ---
 - npm: https://www.npmjs.com/package/@causal-order/testing
 - repo: https://github.com/GazaliAhmad/causal-order-test
-
 ---
+
 ### time-window-classifier (twc)
 
 Reference CLI demonstrating how `day-boundary` is applied to real event data.
@@ -99,8 +99,7 @@ Use this when:
 - you need a concrete end-to-end example, not just library usage
 ---
 - repo: https://github.com/GazaliAhmad/time-window-classifier
- 
----
+ ---
 
 This package reflects a broader analytical position used throughout this GitHub:
 
