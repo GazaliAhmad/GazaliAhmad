@@ -25,8 +25,6 @@ Multi-node ingress
         ↓
 @causal-order/transport
         ↓
-sqlite-recovery-envelope
-        ↓
 @causal-order/dedupe
         ↓
 @causal-order/monitor
@@ -40,8 +38,6 @@ application state
 
 ```text
 Single-node ingress
-        ↓
-sqlite-recovery-envelope
         ↓
 @causal-order/transport
         ↓
